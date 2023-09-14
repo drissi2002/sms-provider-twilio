@@ -1,10 +1,6 @@
-package com.example.demo.model;
+package com.example.sms.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 import javax.validation.constraints.NotBlank;
 
@@ -38,7 +34,7 @@ public class SmsRequest {
         private final String type;
 
         @NotBlank
-        private final String auto_detect;
+        private final String autoDetect;
 
         @NotBlank
         private final String dt;
