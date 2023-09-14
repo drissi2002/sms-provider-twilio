@@ -1,4 +1,4 @@
-# springboot-twilio
+# sms-provider-twilio
 - Open and change application.yml
 ```yml
 twilio:
