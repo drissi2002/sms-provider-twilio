@@ -29,7 +29,7 @@ public class SmsRequest {
         private final String customized;
 
         @NotBlank
-        private final String dest_num; // destination
+        private final String destNum; // destination
 
         @NotBlank
         private final String msg; // OTP

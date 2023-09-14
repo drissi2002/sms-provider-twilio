@@ -4,5 +4,5 @@ spring:
     name: sms-provider
 twilio:
   account_sid: AC404c3898969e811a848f9e638d488cdb
-  auth_token: 776ef3f9d175dd8c6d426e29e3423fa8
+  auth_token: f605ec5c12cb72a49ccef43566e90fca
   trial_number: +1 478 606 2651
