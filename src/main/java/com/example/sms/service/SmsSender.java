@@ -1,6 +1,6 @@
 package com.example.sms.service;
 
-import com.example.demo.model.SmsRequest;
+import com.example.sms.model.SmsRequest;
 
 public interface SmsSender {
 

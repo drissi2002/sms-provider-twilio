@@ -1,6 +1,6 @@
 package com.example.sms.controller;
 
-import com.example.demo.model.SmsRequest;
+import com.example.sms.model.SmsRequest;
 import com.example.sms.service.TwilioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

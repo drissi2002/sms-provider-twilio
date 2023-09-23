@@ -1,7 +1,7 @@
 package com.example.sms.service;
 
 import com.example.sms.configuration.TwilioConfiguration;
-import com.example.demo.model.SmsRequest;
+import com.example.sms.model.SmsRequest;
 import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.rest.api.v2010.account.MessageCreator;
 import com.twilio.type.PhoneNumber;
